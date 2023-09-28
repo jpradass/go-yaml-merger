@@ -1,4 +1,4 @@
-package merger
+package goyamlmerger
 
 import (
 	"bufio"
